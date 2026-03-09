@@ -1,0 +1,18 @@
+games-site/
+│
+├── index.html
+│
+└── games/
+    ├── buckshot/
+    │   ├── index.html
+    │   ├── main.js
+    │   ├── style.css
+    │   ├── buckshot-roulette.js
+    │   ├── buckshot-roulette.wasm
+    │   └── buckshot-roulette.pck
+    │
+    ├── snake/
+    │   └── index.html
+    │
+    └── tetris/
+        └── index.html
